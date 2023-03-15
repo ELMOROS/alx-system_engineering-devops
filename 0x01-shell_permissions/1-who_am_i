@@ -1,6 +1,2 @@
 #!/bin/bash
-<<<<<<< HEAD
-whoami
-=======
- id -un
->>>>>>> 3b9675c1cfb8d3aef6f87a7fbb92c772b9320dc7
+id -un
